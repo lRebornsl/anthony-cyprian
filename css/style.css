@@ -1,6 +1,10 @@
 body{
     background: #7373BC;
     color: white;
+    text-align: left;
+}
+
+#main-title{
     text-align: center;
 }
 
@@ -17,4 +21,9 @@ body{
     padding: 2%;
 }
 
-
+@media (max-width: 768px){
+    #survey-form{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
