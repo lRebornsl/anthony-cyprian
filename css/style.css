@@ -1,8 +1,20 @@
 body{
+    background: #7373BC;
+    color: white;
     text-align: center;
 }
 
-form{
+#description {
+    font-weight: bold;
+}
+
+#survey-form{
     display: flex;
     flex-direction: column;
+    background: #2B2B49;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2%;
 }
+
+
