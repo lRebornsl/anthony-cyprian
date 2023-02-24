@@ -27,3 +27,14 @@ body{
         margin-right: 5%;
     }
 }
+
+#submit {
+    width: 10em;
+    height: 2em;
+    align-self: center;
+    font-size: 1.1em;
+    margin-top: 5%;
+}
+ #submit:hover {
+    transform: scale(1.2);
+ }
